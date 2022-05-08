@@ -5,6 +5,9 @@
 #### My GitHub activities
 [![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=duythecoder&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## I'm a high school student and a competitive programmer!
 - 🔭 I’m currently working on my personal website (haven't been touched for a long time) 😆 
 - 🌱 I’m currently learning competitive programming
