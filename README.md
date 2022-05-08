@@ -6,6 +6,7 @@
 [![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=duythecoder&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
 ## I'm a high school student and a competitive programmer!
