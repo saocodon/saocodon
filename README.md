@@ -6,11 +6,10 @@
 [![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=duythecoder&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 ## I'm a high school student and a competitive programmer!
-- 🔭 I’m currently working on my personal website (haven't been touched for a long time) 😆 
 - 🌱 I’m currently learning competitive programming
 - 🤔 I’m having a lot of problems with DP, trees, and so on 😧
-- 💬 This is where I put solutions for problems I find it special, needs reviewing for contests, hope it will help you 😄, if it hasn't been optimized in your opinion, feel free to leave a comment below!
-- 😄 Pronouns: DuyDP and more (I love solving problems with DP)
+- 💬 This is where I put solutions for problems I find them special, need reviewing for contests, hope they will help you 😄, if they haven't been optimized in your opinion, feel free to leave a comment below!
+- 😄 Pronouns: DuyDP and some more (I'm into solving problems with DP)
 - 🌏 I reside in Ho Chi Minh City, Vietnam
 - ⚡ Fun fact: I have a little experience in designing and love playing music (especially guitar and ukulele)
 
