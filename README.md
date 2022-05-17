@@ -1,9 +1,4 @@
 # Hello world, I'm Duy! Welcome to my quiet study bedroom 👋
-#### My most active repos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duythecoder&repo=CodingLibrary&theme=buefy)](https://github.com/duythecoder/CodingLibrary)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duythecoder&repo=Algo_Notebook&theme=buefy)](https://github.com/duythecoder/Algo_Notebook)
-#### My activity
-[![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=duythecoder&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 ## I'm a high school student and a competitive programmer!
 - 🌱 I’m currently learning competitive programming
